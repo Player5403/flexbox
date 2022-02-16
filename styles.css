@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     align-items: center;
 }
@@ -14,8 +13,6 @@ body {
     align-items: center;
     font-size: x-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    overflow: hidden;
-    border-radius: 25px;
 }
 
 .item1 {
@@ -68,73 +65,12 @@ body {
     font-size: small;
 }
 
-.sedany {
-    left: 20cm;
-    right: 10cm;
-}
-=======
-body {
-    align-items: center;
+.title {
+    font-size: larger;
+    font-style: oblique;
 }
 
-.container {
-    display: flex;
-    margin: 5px;
-    gap: 10px;
-    gap: 20px;
-    row-gap: 10px;
-    column-gap: 20px;
-    justify-content: center;
-    align-items: center;
-}
-
-.item1 {
-    background: hsl(31, 77%, 52%);
-    border-width: 20px;
-    padding: 5px;
-    justify-content: center;
-    margin: 5px 0;
-    align-items: center;
-    flex-flow: column;
+a {
     color: whitesmoke;
-    width: 300px;
-    min-height: 500px;
-    display: flex;
-    text-align: center;
-    
-}
-
-.item2 {
-    background: hsl(184, 100%, 22%);
-    border-width: 20px;
-    padding: 5px;
-    justify-content: center;
-    margin: 5px 0;
-    align-items: center;
-    flex-flow: column;
-    color: whitesmoke;
-    width: 300px;
-    min-height: 500px;
-    display: flex;
-    text-align: center;
-}
-
-.item3 {
-    background: hsl(179, 100%, 13%);
-    border-width: 20px;
-    padding: 5px;
-    justify-content: center;
-    margin: 5px 0;
-    align-items: center;
-    flex-flow: column;
-    color: whitesmoke;
-    width: 300px;
-    min-height: 500px;
-    display: flex;
-    text-align: center;
-}
-
-.attribution {
     font-size: small;
 }
->>>>>>> f38338ef8bc23716def88d5024e9fd7aa8bcb63d
